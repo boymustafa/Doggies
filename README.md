@@ -5,7 +5,7 @@ This repo is demonstrate how to develop Android app with good practices using [K
 
 Libraries that I use in this repo:
 
-        // Glide for loading and caching cat images
+        // Glide for loading and caching dog images
         implementation 'com.github.bumptech.glide:glide:4.9.0'
         kapt 'com.github.bumptech.glide:compiler:4.9.0'
         // Retrofit as our REST service
